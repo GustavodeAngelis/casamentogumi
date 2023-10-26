@@ -1017,3 +1017,15 @@ input[type="text"] {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+#mapalocal {
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  padding: 0px;
+}
+
+#mapatitulo{
+  text-align: center;
+  margin-top: 20px;
+}
